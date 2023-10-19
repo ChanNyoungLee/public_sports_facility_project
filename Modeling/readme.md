@@ -1,5 +1,5 @@
 ### 1. 회귀분석
-- 데이터 : [11개 자치구 정규화 데이터](https://github.com/jyoung19/Project/blob/main/Modeling/11%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EC%A0%95%EA%B7%9C%ED%99%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip)
+- 데이터 : [11개 자치구 정규화 데이터](https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/11%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EC%A0%95%EA%B7%9C%ED%99%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip)
   - 1인당 자가용 수
   - 대졸 이상 비율
   - 만명당 공무원 수
