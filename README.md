@@ -6,7 +6,7 @@
 <h3 align="center">
 </h3>  
 <p align="right">
-  <br>이찬녕 외 6명</br>
+  <br>이찬녕 외 7명</br>
 </p>  
 
 ### Abstract
