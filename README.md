@@ -48,7 +48,9 @@
 독립변수들을 이용한 회귀분석으로, 독립변수가 종
 속변수에 미치는 영향력의 크기를 파악하고 이를 통
 하여 독립변수의 일정한 값에 대응하는 종속변수 값
-을 예측하는 모형을 산출하는 방법이다.[4]<br> 수식은
+을 예측하는 모형을 산출하는 방법이다.[4]<br>
+
+&nbsp;&nbsp;수식은
 아래와 같다.
 <p align="center">
   <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%801.png" width="300"/>
