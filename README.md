@@ -52,7 +52,11 @@
 <br>
 [4] 수식은
 아래와 같다.
-(1)
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%801.png" width="300"/>
+</p>
+<p align="center">
+</p> 
 <br>
 &nbsp;여기서 y는 종속변수, 각 β는 k번째 회귀계수, 각 x는 k
 번째 독립변수를 의미한다. 여기서는 선행연구[5]의
@@ -69,8 +73,9 @@
 을 때까지 알고리즘을 반복한다. 유클리디안 거리
 계산식은 아래와 같다.
 <br>
-
- (2)
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%802.png" width="300"/>
+</p>
  <br>
 &nbsp;군집의 개수는 하이퍼 파라미터로 사용자가 제시
 하나, 보통은 elbow 방법와 silhouette 방법을 활용
@@ -92,7 +97,21 @@ Within the clusters)의 플롯(plot)으로부터 최적 군
 세, 수급인구비율을 입지요인으로 선정하였다.
 <br>
 &nbsp;서울시 수요 불충족 지역구 K-means clustering
-결과를 지도 시각화한 결과는 Fig. 1과 같다
+결과를 지도 시각화한 결과는 Fig.1과 같다.
+<br>
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%803.png" width="600"/>
+</p>
+<p align="center">
+Table 1. backward stepwise 다중회귀분석 결과
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%804.png" width="400"/>
+</p>
+<p align="center">
+Fig 1. 서울시 k-means clustering 결과
+</p>
 <br>
 <br>
 
@@ -101,9 +120,12 @@ Within the clusters)의 플롯(plot)으로부터 최적 군
 &nbsp;공공체육시설의 최종 입지 예측을 위해 클러스터별
 인구 만 명당 체육시설 수의 비율을 구했다. 수식은
 아래와 같다.
-<br>(3)
 <br>
-&nbsp;여기서 는 추가 설치 개수를 말한다.
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%805.png" width="300"/>
+</p>
+<br>
+&nbsp;여기서 x는 추가 설치 개수를 말한다.
 <br>
 &nbsp;이 비율이 동일하도록 각 cluster에 추가로 필요한
 체육시설 개수를 결정하였다. 실제로는 비율이 완벽
@@ -113,7 +135,15 @@ Within the clusters)의 플롯(plot)으로부터 최적 군
 &nbsp;이후, 각 cluster의 중심점을 구해 그 중심점으로
 부터 가까운 동부터 시설을 하나씩 설치하는 방향으
 로 위치를 선정했다. 선정된 추가 설치 입지는 Fig.
-2와 같다
+2와 같다.
+<br>
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%806.png" width="600"/>
+</p>
+
+<p align="center">
+  Fig 2. 서울시 공공체육시설 추가 설치 입지
+</p>
 <br>
 <br>
 
@@ -150,6 +180,13 @@ cluster의 중심점으로부터 가까운 동 순으로 공공체
 용할 수 있음을 의미하며, 결국 전 국민 신체 건강
 증진 가능성을 높이는 계기가 될 수 있다.
 <br>
+<br>
+<p align="center">
+  <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%807.png" width="500"/>
+</p>
+<p align="center">
+  Fig 2. 서울시 공공체육시설 추가 설치 입지
+</p>
 &nbsp;&nbsp;최근 국민 건강이 중요한 이슈로 부상함에 따라
 체육활동의 수요가 늘어나면서 공공체육시설 증설의
 필요성이 높아졌다. WHO에 따르면[8], 신체활동은
