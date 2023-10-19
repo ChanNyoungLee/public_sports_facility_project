@@ -4,4 +4,4 @@
   - 고혈압
   - 당뇨병
   - 대사증후군 위험요인 (복부비만, 높은 혈압, 높은 혈당, 고중성 지방혈증, 낮은 HDL 콜레스테롤 혈증)
-- 코드 : [동일성 검정](https://github.com/jyoung19/Project/blob/main/EDA/%EB%8F%99%EC%9D%BC%EC%84%B1%20%EA%B2%80%EC%A0%95.ipynb)
+- 코드 : [동일성 검정](https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/EDA/%EB%8F%99%EC%9D%BC%EC%84%B1%20%EA%B2%80%EC%A0%95.ipynb)
