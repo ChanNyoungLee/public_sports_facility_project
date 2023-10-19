@@ -17,15 +17,17 @@
 
 ### 2. k-means clustering
 - 데이터 : [동별 정규화한 인구수, 생활보호대상자 비율 데이터]
-  - 수요보다 더 적게 지어진 11개 자치구(https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/11%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EB%8F%99%EB%B3%84%20%EC%A0%95%EA%B7%9C%ED%99%94%ED%95%9C%20%EC%9D%B8%EA%B5%AC%EC%88%98%2C%20%EC%83%9D%ED%99%9C%EB%B3%B4%ED%98%B8%EB%8C%80%EC%83%81%EC%9E%90%20%EB%B9%84%EC%9C%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip)
-
+(https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/11%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EB%8F%99%EB%B3%84%20%EC%A0%95%EA%B7%9C%ED%99%94%ED%95%9C%20%EC%9D%B8%EA%B5%AC%EC%88%98%2C%20%EC%83%9D%ED%99%9C%EB%B3%B4%ED%98%B8%EB%8C%80%EC%83%81%EC%9E%90%20%EB%B9%84%EC%9C%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip)
+  - 수요보다 더 적게 지어진 11개 자치구
  
-- 데이터 : [동별 정규화한 인구수, 생활보호대상자 비율 데이터]
-  - 수요보다 더 많이 지어진 13개 자치구 + 수요만큼 지어진 1개 자치구(https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/14%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EB%8F%99%EB%B3%84%20%EC%A0%95%EA%B7%9C%ED%99%94%ED%95%9C%20%EC%9D%B8%EA%B5%AC%EC%88%98%2C%20%EC%83%9D%ED%99%9C%EB%B3%B4%ED%98%B8%EB%8C%80%EC%83%81%EC%9E%90%20%EB%B9%84%EC%9C%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip)
-  
+- 데이터 : [동별 정규화한 인구수, 생활보호대상자 비율 데이터](https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/14%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EB%8F%99%EB%B3%84%20%EC%A0%95%EA%B7%9C%ED%99%94%ED%95%9C%20%EC%9D%B8%EA%B5%AC%EC%88%98%2C%20%EC%83%9D%ED%99%9C%EB%B3%B4%ED%98%B8%EB%8C%80%EC%83%81%EC%9E%90%20%EB%B9%84%EC%9C%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip)
+  - 수요보다 더 많이 지어진 13개 자치구 + 수요만큼 지어진 1개 자치구  
   
 - 코드 : [11개 자치구 클러스터링, 입지선정](https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/clustering.ipynb)
 
 
 ### 3. 모델 성능 평가 (클러스터링, 입지선정)
 - 코드 : [모델 성능 평가](https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/%EB%AA%A8%EB%8D%B8%20%EC%84%B1%EB%8A%A5%20%ED%8F%89%EA%B0%80.ipynb)
+
+
+https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/Modeling/11%EA%B0%9C%20%EC%9E%90%EC%B9%98%EA%B5%AC%20%EB%8F%99%EB%B3%84%20%EC%A0%95%EA%B7%9C%ED%99%94%ED%95%9C%20%EC%9D%B8%EA%B5%AC%EC%88%98%2C%20%EC%83%9D%ED%99%9C%EB%B3%B4%ED%98%B8%EB%8C%80%EC%83%81%EC%9E%90%20%EB%B9%84%EC%9C%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0.zip
