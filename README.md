@@ -103,14 +103,14 @@ Within the clusters)의 플롯(plot)으로부터 최적 군
   <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%803.png" width="600"/>
 </p>
 <p align="center">
-Table 1. backward stepwise 다중회귀분석 결과
+<I>Table 1. backward stepwise 다중회귀분석 결과</I>
 </p>
 <br>
 <p align="center">
   <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%804.png" width="400"/>
 </p>
 <p align="center">
-Fig 1. 서울시 k-means clustering 결과
+<I>Fig 1. 서울시 k-means clustering 결과</I>
 </p>
 <br>
 <br>
@@ -142,7 +142,7 @@ Fig 1. 서울시 k-means clustering 결과
 </p>
 
 <p align="center">
-  Fig 2. 서울시 공공체육시설 추가 설치 입지
+ <I> Fig 2. 서울시 공공체육시설 추가 설치 입지</I>
 </p>
 <br>
 <br>
@@ -185,7 +185,7 @@ cluster의 중심점으로부터 가까운 동 순으로 공공체
   <img src="https://github.com/ChanNyoungLee/public_sports_facility_project/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%807.png" width="500"/>
 </p>
 <p align="center">
-  Fig 2. 서울시 공공체육시설 추가 설치 입지
+  <I>Fig 2. 서울시 공공체육시설 추가 설치 입지</I>
 </p>
 &nbsp;&nbsp;최근 국민 건강이 중요한 이슈로 부상함에 따라
 체육활동의 수요가 늘어나면서 공공체육시설 증설의
